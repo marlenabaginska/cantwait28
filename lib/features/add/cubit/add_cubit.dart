@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:cantwait28/repositories/item_repository.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 
 part 'add_state.dart';
 
